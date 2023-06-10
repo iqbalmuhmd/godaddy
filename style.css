@@ -1,0 +1,706 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow-x: hidden;
+}
+
+.headbg{
+    height: 66px;
+    background-color: #2B2B2B;
+}
+.gdlogo{
+    width: 175px;
+    position: relative;
+    top: -26px;
+    left: 37px;
+   
+} 
+.domains{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    bottom: 97px;
+    left: 223px;
+    font-size: 17px;
+}
+.hosting{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    bottom: 117px;
+    left: 323px;
+    font-size: 17px;
+}
+.security{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    bottom: 137px;
+    left: 413px;
+    font-size: 17px;
+}
+.em{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    bottom: 157px;
+    left: 513px;
+    font-size: 17px;
+}
+.india{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    bottom: 154px;
+    left: 163px;
+    font-size: 10px;
+}
+.cntct{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;
+    position: relative;
+    bottom: 187px;
+    left: 885px;
+    font-size: 14.3px;
+}
+.bx bx-chevron-down{
+   font-size: 10px;
+}
+.help{
+    left: 1029px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    bottom: 202px;
+    font-size: 13px;
+}
+.signin{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    bottom: 217px;
+    left: 1090px;
+    font-size: 13px;
+}
+.cart{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    bottom: 234px;
+    left: 1176px;
+    font-size: 13px;
+}
+.bx bx-cart{
+font-size: 16px;
+}
+.search{
+    background-color: #ebebeb;
+    width: 647px;
+    height: 61px;
+    position: relative;
+    top: 15px;
+    left: 54px;
+}
+.searchb{
+    height: 60px;
+    width: 173px;
+    position: relative;
+    left: 551px;
+    background-color: #00838c;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+.finddomain{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1d1b1b;
+    font-size: 19px;
+    font-weight: 500;
+    position: relative;
+    bottom: 38px;
+    left: 31px;
+    letter-spacing: 0.5px;
+}
+.infopic{
+    position: relative;
+    left: 756px;
+    bottom: 87px;
+}
+.gd1{
+    width: 874px;
+    height: 449px;
+    position: relative;
+    bottom: 75px;
+    border-radius: 4px;
+}
+.bringurbiz{
+    font-size: 42px;
+    font-family: 'DM Serif Text', serif;
+    position: relative;
+    bottom: 456px;
+    left: 42px;
+    line-height: 51px;
+    color: #1d1b1b;
+    letter-spacing: 0.8px;
+}
+.comdomains{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    position: relative;
+    bottom: 639px;
+    left: 42px;
+    color: #1d1b1b;
+}
+.aslow{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 550;
+    position: relative;
+    bottom: 453px;
+    left: 41px;
+    color: #363434;
+}
+.findurdomain{
+    height: 45px;
+    width: 165px;
+    position: relative;
+    bottom: 427px;
+    left: 41px;
+    background-color: rgb(20, 19, 19);
+    color: white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+}
+.limit{
+    position: relative;
+    bottom: 403px;
+    left: 43px;
+    font-size: 11px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 19px;
+    letter-spacing: 0.4px;
+}
+.pinkbg{
+    height: 450px;
+    width: 345px;
+    background-color: #fde9db;
+    position: relative;
+    bottom: 798px;
+    left: 895px;
+}
+.webmar{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 0.6px;
+    position: relative;
+    bottom: 1206px;
+    left: 934px;
+}
+.freeweb{
+    position: relative;
+    bottom: 74rem;
+    left: 931px;
+    line-height: 47px;
+    font-size: 43px;
+    font-family: 'DM Serif Text', serif;
+}
+.start4free{
+    height: 43px;
+    width: 132px;
+    position: relative;
+    bottom: 73rem;
+    left: 932px;
+    background-color: rgb(20, 19, 19);
+    color: white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+}
+.learnmore{
+    position: relative;
+    font-size: 15px;
+    bottom: 1198px;
+    left: 1079px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2B2B2B;
+}
+.nocharges{
+    position: relative;
+    bottom: 1158px;
+    left: 933px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 19px;
+    letter-spacing: 0.4px;
+}
+.moretools{
+    position: relative;
+    top: 563px;
+    letter-spacing: 1.05px;
+    left: 282px;
+    font-size: 51px;
+    font-family: 'DM Serif Text', serif;
+    color: #1d1b1b;
+}
+.essentials{
+    position: relative;
+    font-size: 16.5px;
+    top: 582px;
+    left: 305px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #363434;
+}
+.profem{
+    width: 550px;
+    height: 334px;
+    position: relative;
+    top: 635px;
+    left: 91px;
+}
+.webhos{
+    width: 550px;
+    height: 334px;
+    position: relative;
+    top: 635px;
+    left: 158px;
+}
+.profemail{
+    position: relative;
+    top: 654px;
+    left: 90px;
+    font-size: 2.265rem;
+    color: #1d1b1b;
+}
+.webhosting{
+    position: relative;
+    top: 612px;
+    left: 712px;
+    font-size: 2.265rem;
+    color: #1d1b1b;
+}
+.profemdtls{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 634px;
+    font-weight: 600;
+    left: 88px;
+    line-height: 23px;
+    letter-spacing: 0.4px;
+    font-size: 14px;
+    color: #444242;
+}
+.webhosdtls{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 588px;
+    font-weight: 600;
+    left: 710px;
+    line-height: 23px;
+    letter-spacing: 0.4px;
+    font-size: 14px;
+    color: #444242;
+}
+.aslow1{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 612px;
+    font-weight: 600;
+    left: 88px;
+    line-height: 23px;
+    letter-spacing: 0.4px;
+    font-size: 14px;
+    color: rgb(68, 66, 66);
+}
+.aslow2{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 588px;
+    font-weight: 615;
+    left: 710px;
+    line-height: 23px;
+    letter-spacing: 0.4px;
+    font-size: 14px;
+    color: #444242;
+}
+.permo1{
+    position: relative;
+    top: 593px;
+    left: 90px;
+    font-size: 34px;
+    color: #1d1b1b;
+}
+.peruser1{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 530px;
+    font-weight: 600;
+    left: 203px;
+    line-height: 23px;
+    letter-spacing: 0.4px;
+    font-size: 14px;
+    color: rgb(68, 66, 66);
+}
+.permo2{
+    position: relative;
+    top: 555px;
+    left: 712px;
+    font-size: 34px;
+    color: #1d1b1b;
+}
+.peruser2{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 507px;
+    font-weight: 600;
+    left: 843px;
+    line-height: 23px;
+    letter-spacing: 0.4px;
+    font-size: 14px;
+    color: rgb(68, 66, 66);
+}
+.explore1{
+    height: 54px;
+    width: 196px;
+    position: relative;
+    top: 540px;
+    left: 90px;
+    background-color: white;
+    color: #1d1b1b;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.explore2{
+    height: 54px;
+    width: 196px;
+    position: relative;
+    top: 540px;
+    left: 514px;
+    background-color: white;
+    color: #1d1b1b;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.gd4{
+    width: 1728px;
+    position: relative;
+    top: 650px;
+    right: 190px;
+}
+.suraiya{
+    position: relative;
+    top: 229px;
+    left: 54px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2B2B2B;
+}
+.godaddyguide{
+    position: relative;
+    top: 238px;
+    left: 55px;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2B2B2B;
+}
+.logob{
+    width: 117px;
+    position: relative;
+    top: 179px;
+    left: 723px;
+}
+.guid{
+    position: relative;
+    font-size: 18px;
+    top: 153px;
+    left: 845px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2B2B2B;
+    font-weight: lighter;
+}
+.lovetohelp{
+    font-family: 'DM Serif Text', serif;
+    font-size: 54px;
+    position: relative;
+    top: 203px;
+    line-height: 62px;
+    left: 725px;
+    color: #1d1b1b;
+}
+.helpdtls{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    position: relative;
+    left: 726px;
+    top: 225px;
+    line-height: 24px;
+    color: #444242;
+}
+.gethelp{
+    position: relative;
+    top: 254px;
+    left: 723px;
+    height: 52px;
+    width: 165px;
+    background-color: rgb(20, 19, 19);
+    color: white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+}
+.dis{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2B2B2B;
+    position: relative;
+    top: 389px;
+    font-size: 15px;
+    left: 54px;
+    text-decoration: underline #2B2B2B;
+
+}
+.bgfooter{
+    height: 843px;
+    position: relative;
+    top: 460px;
+    background-color: #111111;
+}
+.thirdparty{
+    position: relative;
+    top: 420px;
+    left: 50px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    line-height: 24px;
+    color: #444242;
+}
+.needhlp{
+    background-color: #f5f7f8;
+    height: 100px;
+    position: relative;
+    top: 455px;
+    
+}
+.offerbg{
+    background-color: #2b2b2b;
+    height: 50px;
+    position: relative;
+    top: 460px;
+}
+.needhelp{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    position: relative;
+    top: 45px;
+    left: 339px;
+}
+.greylogo{
+    position: relative;
+    width: 52px;
+    top: 2px;
+    left: 42px;
+}
+.offer{
+    position: relative;
+    font-size: 16px;
+    bottom: 36px;
+    left: 96px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.lovecall{
+    font-size: 21px;
+    color: #444242;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 31px;
+    left: 83px;
+}
+.whitelogo{
+    width: 265px;
+    position: relative;
+    left: 50px;
+    bottom: 13px;
+}
+.guide{
+    position: relative;
+    font-size: 35px;
+    bottom: 125px;
+    left: 291px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: lighter;
+}
+.arrowimg{
+    position: relative;
+    bottom: 185px;
+    left: 400px;
+    width: 86px;
+}
+hr{
+    height: 0.5px;
+    position: relative;
+    bottom: 230px;
+    background-color: #444242;
+    border: none;
+}
+.abtgd{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    position: relative;
+    bottom: 188px;
+    left: 60px;
+    font-size: 15px;
+    color: white;
+}
+.suport{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    position: relative;
+    bottom: 204px;
+    left: 337px;
+    font-size: 15px;
+    color: white;
+}
+.resources{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    position: relative;
+    bottom: 220px;
+    left: 532px;
+    font-size: 15px;
+    color: white;
+}
+.partner{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    position: relative;
+    bottom: 235px;
+    left: 765px;
+    font-size: 15px;
+    color: white;
+}
+.account{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    position: relative;
+    bottom: 252px;
+    left: 990px;
+    font-size: 15px;
+    color: white;
+}
+.shopping{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    position: relative;
+    bottom: 268px;
+    left: 1179px;
+    font-size: 15px;
+    color: white;
+}
+.abtdtls{
+    position: relative;
+    left: 60px;
+    bottom: 248px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    color: #6d6c6c;
+    line-height: 34px;
+    list-style: none;
+}
+.sprtdtls{
+    position: relative;
+    left: 340px;
+    bottom: 94px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    color: #6d6c6c;
+    line-height: 34px;
+    list-style: none;
+}
+.resdtls{
+    position: relative;
+    left: 535px;
+    bottom: 265px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    color: #6d6c6c;
+    line-height: 34px;
+    list-style: none;
+}
+.ptnrdtls{
+    position: relative;
+    left: 774px;
+    bottom: 571px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    color: #6d6c6c;
+    line-height: 34px;
+    list-style: none;
+}
+.accdtls{
+    position: relative;
+    left: 989px;
+    bottom: 673px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    color: #6d6c6c;
+    line-height: 34px;
+    list-style: none;
+}
+.shopdtls{
+    position: relative;
+    left: 1182px;
+    bottom: 809px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    color: #6d6c6c;
+    line-height: 34px;
+    list-style: none;
+}
+.cc{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: white;
+    font-weight: bold;
+    position: relative;
+    bottom: 626px;
+    left: 55px;
+}
+.cc2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: white;
+    font-weight: bold;
+    position: relative;
+    bottom: 585px;
+    left: 55px;
+}
